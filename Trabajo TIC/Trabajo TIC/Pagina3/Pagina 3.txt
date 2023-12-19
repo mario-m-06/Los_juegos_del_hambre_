@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Pagina 3</title>
+</head>
+<body style="background-color:red">
+<h2>Los juegos del hambre: sinsajo parte 1</h2>
+<img src="Los juegos del hambre sinsajo parte 1.jpg" width=500 height=800> 
+<br>
+Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...
+<br>
+<a href="../Los juegos del hambre/Los juegos del hambre.html">Los juegos del hambre pagina principal<a/>,  
+<a href="../Pagina1/Pagina 1.html">Los juegos del hambre<a/>, 
+<a href="../Pagina2/Pagina 2.html">Los juegos del hambre: en llamas<a/>, 
+<a href="../Pagina4/Pagina 4.html">Los juegos del hambre: Sinsajo Parte 2<a/>, 
+<a href="../Pagina5/Pagina 5.html">Los juegos del hambre: balada de los pajaros cantores y serpientes<a/>. 
+</body>
+</html>

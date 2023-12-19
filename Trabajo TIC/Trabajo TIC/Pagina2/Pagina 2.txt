@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Pagina 2</title>
+</head>
+<body style="background-color:red">
+<h2>Los juegos del hambre: en llamas.</h2>
+<img src="Los juegos del hambre en llamas.jpg" width=500 height=800> 
+<br>
+Contra todo prónostico, Katniss ha ganado Los Juegos del Hambre. Es un milagro que ella y su compañero del Distrito 12, Peeta Mellark, sigan vivos. Katniss debería sentirse aliviada, incluso contenta, ya que, al fin y al cabo, ha regresado con su familia y su amigo de toda la vida, Gale. Sin embargo, nada es como a ella le gustaría. Gale guarda las distancias y Peeta le ha dado la espalda por completo. Además se rumorea que existe una rebelión contra el Capitolio… 
+<br>
+<a href="../Los juegos del hambre/Los juegos del hambre.html">Los juegos del hambre pagina principal<a/>,  
+<a href="../Pagina1/Pagina 1.html">Los juegos del hambre<a/>, 
+<a href="../Pagina3/Pagina 3.html">Los juegos del hambre: Sinsajo Parte 1<a/>, 
+<a href="../Pagina4/Pagina 4.html">Los juegos del hambre: Sinsajo Parte 2<a/>, 
+<a href="../Pagina5/Pagina 5.html">Los juegos del hambre: balada de los pajaros cantores y serpientes<a/>. 
+</body>
+</html>

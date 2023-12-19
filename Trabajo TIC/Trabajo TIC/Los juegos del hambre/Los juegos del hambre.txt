@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Los juegos del hambre.</title>
+</head>
+<body style="background-color:brown">
+<h2>Los juegos del hambre.</h2>
+<br>Los juegos del hambre se dividen en 5 peliculas que son: <br>
+<a href="../Pagina1/Pagina 1.html">Los juegos del hambre<a/>,  <br>
+<a href="../Pagina2/Pagina 2.html">Los juegos del hambre: en llamas<a/>, <br>
+<a href="../Pagina3/Pagina 3.html">Los juegos del hambre: Sinsajo Parte 1<a/>, <br>
+<a href="../Pagina4/Pagina 4.html">Los juegos del hambre: Sinsajo Parte 2<a/>, <br>
+<a href="../Pagina5/Pagina 5.html">Los juegos del hambre: balada de los pajaros cantores y serpientes<a/>. <br>
+<img src="Los juegos del hambre.jpg" width=500 height=800> <img src="Los juegos del hambre en llamas.jpg" width=500 height=800> <img src="Los juegos del hambre sinsajo parte 1.jpg" width=500 height=800> <img src="Los juegos del hambre sinsajo parte 2.jpg" width=500 height=800> <img src="Los juegos del hambre balada de pajaros cantores y serpientes.jpg" width=500 height=800>
+</body>
+</html>
